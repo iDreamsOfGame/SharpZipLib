@@ -4,5 +4,9 @@
 	"description": "SharpZipLib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",
 	"version": "1.2.0",
 	"unity": "2018.3",
+	"author": {
+		"name": "ICSharpCode",
+		"url": "https://github.com/icsharpcode"
+	},
 	"license": "MIT"
 }
