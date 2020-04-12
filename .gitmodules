@@ -1,4 +1,4 @@
-[submodule "Assets/SharpZipLib"]
+[submodule "upm"]
 	path = Assets/SharpZipLib
 	url = https://github.com/iDreamsOfGame/SharpZipLib.git
 	branch = upm
